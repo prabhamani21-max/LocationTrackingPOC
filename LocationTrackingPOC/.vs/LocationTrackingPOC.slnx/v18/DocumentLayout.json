@@ -1,0 +1,769 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LocationTrackingPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\middlewares\\currentusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\middlewares\\currentusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\controllers\\collectionrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\controllers\\collectionrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\implementation\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\implementation\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\implementation\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\implementation\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\interface\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\interface\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\implementation\\locationpersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\implementation\\locationpersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\collectionrequestdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\collectionrequestdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\collectionstatusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\collectionstatusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\implementation\\collectionrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\implementation\\collectionrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\implementation\\collectionrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\implementation\\collectionrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|d:\\locationtrackingpoc\\locationtrackingcommon\\models\\collectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|solutionrelative:locationtrackingcommon\\models\\collectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\dto\\collectionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\dto\\collectionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\implementation\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\implementation\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|d:\\locationtrackingpoc\\locationtrackingcommon\\models\\driverstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|solutionrelative:locationtrackingcommon\\models\\driverstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\implementation\\locationtrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\implementation\\locationtrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\interface\\ilocationtrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\interface\\ilocationtrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\interface\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\interface\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\driverlocationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\driverlocationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\droplocationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\droplocationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\implementation\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\implementation\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\implementation\\driverlocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\implementation\\driverlocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\driverstatusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\driverstatusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\dto\\driverlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\dto\\driverlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\dto\\driverlocationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\dto\\driverlocationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|d:\\locationtrackingpoc\\locationtrackingcommon\\models\\driverlocationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|solutionrelative:locationtrackingcommon\\models\\driverlocationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|d:\\locationtrackingpoc\\locationtrackingcommon\\models\\driverlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|solutionrelative:locationtrackingcommon\\models\\driverlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|d:\\locationtrackingpoc\\locationtrackingcommon\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|solutionrelative:locationtrackingcommon\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\addressdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\addressdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\interface\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\interface\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|d:\\locationtrackingpoc\\locationtrackingservice\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CB1B4A-D580-0B4A-7B49-2F11C19531EA}|LocationTrackingService\\LocationTrackingService.csproj|solutionrelative:locationtrackingservice\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\dto\\userstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\dto\\userstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|d:\\locationtrackingpoc\\locationtrackingpoc\\dto\\geofencecheckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046FF0F8-6AFB-B94F-E2CD-3310D1AE6566}|LocationTrackingPOC\\LocationTrackingPOC.csproj|solutionrelative:locationtrackingpoc\\dto\\geofencecheckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|d:\\locationtrackingpoc\\locationtrackingcommon\\models\\geofencecheckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3305650E-00C4-E388-4B74-EC73550B1586}|LocationTrackingCommon\\LocationTrackingCommon.csproj|solutionrelative:locationtrackingcommon\\models\\geofencecheckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\driverdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\driverdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\userstatusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\userstatusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|d:\\locationtrackingpoc\\locationtrackingrepository\\models\\roledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26691036-5C3A-A3BB-46F5-05DCBDEE329D}|LocationTrackingRepository\\LocationTrackingRepository.csproj|solutionrelative:locationtrackingrepository\\models\\roledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentUserMiddleware.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Middlewares\\CurrentUserMiddleware.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\Middlewares\\CurrentUserMiddleware.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Middlewares\\CurrentUserMiddleware.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\Middlewares\\CurrentUserMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:26:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICurrentUser.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\ICurrentUser.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Interface\\ICurrentUser.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\ICurrentUser.cs",
+              "RelativeToolTip": "LocationTrackingService\\Interface\\ICurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:21:11.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Program.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\Program.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Program.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAewF4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:02:41.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectionRequestController.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Controllers\\CollectionRequestController.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\Controllers\\CollectionRequestController.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Controllers\\CollectionRequestController.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\Controllers\\CollectionRequestController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:34:09.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\DriverService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Implementation\\DriverService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\DriverService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Implementation\\DriverService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:46:27.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\AddressService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Implementation\\AddressService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\AddressService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Implementation\\AddressService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:15:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewCgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:09:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CollectionRequestDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\CollectionRequestDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\CollectionRequestDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\CollectionRequestDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\CollectionRequestDb.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:41:13.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\appsettings.json",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\appsettings.json",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\appsettings.json",
+              "RelativeToolTip": "LocationTrackingPOC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T13:02:21.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\Controllers\\AddressController.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:09:53.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationPersistenceService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\LocationPersistenceService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Implementation\\LocationPersistenceService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\LocationPersistenceService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Implementation\\LocationPersistenceService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAIA4wI0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:14:25.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Mapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\Mapper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Mapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\Mapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:42:30.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CollectionStatusDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\CollectionStatusDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\CollectionStatusDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\CollectionStatusDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\CollectionStatusDb.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:35:20.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CollectionRequestRepository.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Implementation\\CollectionRequestRepository.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Implementation\\CollectionRequestRepository.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Implementation\\CollectionRequestRepository.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Implementation\\CollectionRequestRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwDgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:34:44.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CollectionRequestService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\CollectionRequestService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Implementation\\CollectionRequestService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\CollectionRequestService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Implementation\\CollectionRequestService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAvwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:39:36.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CollectionRequest.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\CollectionRequest.cs",
+              "RelativeDocumentMoniker": "LocationTrackingCommon\\Models\\CollectionRequest.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\CollectionRequest.cs",
+              "RelativeToolTip": "LocationTrackingCommon\\Models\\CollectionRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:38:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollectionRequestDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\CollectionRequestDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\DTO\\CollectionRequestDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\CollectionRequestDto.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\DTO\\CollectionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:38:05.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wBcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:39:13.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Implementation\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Implementation\\AddressRepository.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Implementation\\AddressRepository.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Implementation\\AddressRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAewEQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:32:43.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LocationTrackingService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\LocationTrackingService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Implementation\\LocationTrackingService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Implementation\\LocationTrackingService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Implementation\\LocationTrackingService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwNAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:14:21.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILocationTrackingService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\ILocationTrackingService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Interface\\ILocationTrackingService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\ILocationTrackingService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Interface\\ILocationTrackingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:14:14.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\Controllers\\DriverController.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\Controllers\\DriverController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:45:30.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DriverStatus.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\DriverStatus.cs",
+              "RelativeDocumentMoniker": "LocationTrackingCommon\\Models\\DriverStatus.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\DriverStatus.cs",
+              "RelativeToolTip": "LocationTrackingCommon\\Models\\DriverStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:52:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DriverRepository.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Implementation\\DriverRepository.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Implementation\\DriverRepository.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Implementation\\DriverRepository.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Implementation\\DriverRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:52:21.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDriverService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\IDriverService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Interface\\IDriverService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\IDriverService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Interface\\IDriverService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:14:18.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DriverLocationDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\DriverLocationDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\DriverLocationDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\DriverLocationDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\DriverLocationDb.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:40:43.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DropLocationDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\DropLocationDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\DropLocationDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\DropLocationDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\DropLocationDb.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA5wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:36:34.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DriverStatusDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\DriverStatusDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\DriverStatusDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\DriverStatusDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\DriverStatusDb.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA0wCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:38:46.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DriverLocationUpdateDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\DriverLocationUpdateDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\DTO\\DriverLocationUpdateDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\DriverLocationUpdateDto.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\DTO\\DriverLocationUpdateDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:56:27.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DriverLocationRepository.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Implementation\\DriverLocationRepository.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Implementation\\DriverLocationRepository.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Implementation\\DriverLocationRepository.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Implementation\\DriverLocationRepository.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAnwKAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:45:29.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DriverLocationUpdateDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\DriverLocationUpdateDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingCommon\\Models\\DriverLocationUpdateDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\DriverLocationUpdateDto.cs",
+              "RelativeToolTip": "LocationTrackingCommon\\Models\\DriverLocationUpdateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:55:40.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DriverLocationDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\DriverLocationDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\DTO\\DriverLocationDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\DriverLocationDto.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\DTO\\DriverLocationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:56:03.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DriverLocation.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\DriverLocation.cs",
+              "RelativeDocumentMoniker": "LocationTrackingCommon\\Models\\DriverLocation.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\DriverLocation.cs",
+              "RelativeToolTip": "LocationTrackingCommon\\Models\\DriverLocation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:52:58.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "LocationTrackingCommon\\Models\\Address.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\Address.cs",
+              "RelativeToolTip": "LocationTrackingCommon\\Models\\Address.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:31:40.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddressDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\AddressDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\AddressDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\AddressDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\AddressDb.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswBwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:40:54.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\IUserService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:14:16.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserStatusDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\UserStatusDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\DTO\\UserStatusDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\UserStatusDto.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\DTO\\UserStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:56:44.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\DTO\\UserDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\UserDto.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:56:42.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAddressService.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\IAddressService.cs",
+              "RelativeDocumentMoniker": "LocationTrackingService\\Interface\\IAddressService.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingService\\Interface\\IAddressService.cs",
+              "RelativeToolTip": "LocationTrackingService\\Interface\\IAddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:16:16.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LocationDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\LocationDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\DTO\\LocationDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\LocationDto.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\DTO\\LocationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:56:38.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GeofenceCheckDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\GeofenceCheckDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingPOC\\DTO\\GeofenceCheckDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingPOC\\DTO\\GeofenceCheckDto.cs",
+              "RelativeToolTip": "LocationTrackingPOC\\DTO\\GeofenceCheckDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:56:37.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GeofenceCheckDto.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\GeofenceCheckDto.cs",
+              "RelativeDocumentMoniker": "LocationTrackingCommon\\Models\\GeofenceCheckDto.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingCommon\\Models\\GeofenceCheckDto.cs",
+              "RelativeToolTip": "LocationTrackingCommon\\Models\\GeofenceCheckDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:55:58.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\UserDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\UserDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\UserDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\UserDb.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:39:48.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DriverDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\DriverDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\DriverDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\DriverDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\DriverDb.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAywDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:40:27.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserStatusDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\UserStatusDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\UserStatusDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\UserStatusDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\UserStatusDb.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:40:16.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RoleDb.cs",
+              "DocumentMoniker": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\RoleDb.cs",
+              "RelativeDocumentMoniker": "LocationTrackingRepository\\Models\\RoleDb.cs",
+              "ToolTip": "D:\\LocationTrackingPOC\\LocationTrackingRepository\\Models\\RoleDb.cs",
+              "RelativeToolTip": "LocationTrackingRepository\\Models\\RoleDb.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:40:03.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

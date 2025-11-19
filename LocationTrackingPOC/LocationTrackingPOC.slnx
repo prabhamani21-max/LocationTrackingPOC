@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LocationTrackingCommon/LocationTrackingCommon.csproj" />
+  <Project Path="LocationTrackingPOC/LocationTrackingPOC.csproj" />
+  <Project Path="LocationTrackingRepository/LocationTrackingRepository.csproj" />
+  <Project Path="LocationTrackingService/LocationTrackingService.csproj" />
+</Solution>
